@@ -4,8 +4,8 @@
 - 🖥️ System Administrator @[GEDI Gruppo Editoriale S.p.a.](https://www.gedi.it/it)
 - 📖 Learning `Cloud Infrastructure` and `Infrastructure as Code`
 
-> \_ CLI enjoyer <br>
-> 🐧 Linux distro hopper
+ \_ CLI enjoyer <br>
+ 🐧 Linux distro hopper
 
 I use [arch](https://archlinux.org/) btw.
 
