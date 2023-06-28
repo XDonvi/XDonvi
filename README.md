@@ -9,7 +9,7 @@
 
 I use [arch](https://archlinux.org/) btw.
 
-## ⚙️ Some Tools and Tech I use
+## 🛠️ My tools and tech
 
 <!--
 List hell. Be my guest, I will explain absolutely nothing
