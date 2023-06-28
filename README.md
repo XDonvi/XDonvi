@@ -1,5 +1,3 @@
-#Eugenio Donvito
-
 ## 🦆 About Me:
 
 - 👦🏼 I'm a `25` year old male from Italy 🇮🇹
