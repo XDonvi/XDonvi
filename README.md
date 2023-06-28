@@ -4,10 +4,10 @@
 
 - 👦🏼 I'm a `25` year old male from Italy 🇮🇹
 - 🖥️ System Administrator @[GEDI Gruppo Editoriale S.p.a.](https://www.gedi.it/it)
-- 📖 Learning Cloud Infrastructure and Infrastructure as Code
+- 📖 Learning `Cloud Infrastructure` and `Infrastructure as Code`
 
-CLI enjoyer
-🐧 Linux distro hopper
+> \_ CLI enjoyer <br>
+> 🐧 Linux distro hopper
 
 I use [arch](https://archlinux.org/) btw.
 
