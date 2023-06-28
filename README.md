@@ -1,7 +1,7 @@
 ## 🦆 About Me:
 
 - 👦🏼 I'm a `25` year old male from Italy 🇮🇹
-- 🖥️ System Administrator @[GEDI Gruppo Editoriale S.p.a.](https://www.gedi.it/it)
+- 🖥️ System Administrator @[GEDI Gruppo Editoriale S.p.a.](https://www.gedi.it/en)
 - 📖 Learning `Cloud Infrastructure` and `Infrastructure as Code`
 
  \_ CLI enjoyer <br>
