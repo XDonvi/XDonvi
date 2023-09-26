@@ -1,7 +1,7 @@
 ## 🦆 About Me:
 
 - 👦🏼 I'm a `25` year old male from Italy 🇮🇹
-- 🖥️ Devops Engineer @[Engineering S.p.a.](https://www.eng.it/)
+- 🖥️ Devops Engineer @[Engineering S.p.a.](https://www.eng.it/en/)
 - 📖 Learning `Cloud Infrastructure` and `Infrastructure as Code`
 
  \_ CLI enjoyer <br>
